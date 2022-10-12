@@ -1,0 +1,767 @@
+[
+  {
+    "value": "ABNC",
+    "label": "Academia Brasileira de Neurocirurgia"
+  },
+  {
+    "value": "AGU",
+    "label": "Advocacia-Geral da União"
+  },
+  {
+    "value": "ANAC",
+    "label": "Agência Nacional de Aviação Civil"
+  },
+  {
+    "value": "CAER",
+    "label": "Clube de Aeronáutica"
+  },
+  {
+    "value": "CAU",
+    "label": "Conselho de Arquitetura e Urbanismo"
+  },
+  {
+    "value": "CBM",
+    "label": "Corpo de Bombeiro Militar"
+  },
+  {
+    "value": "CFA",
+    "label": "Conselho Federal Administração"
+  },
+  {
+    "value": "CFB",
+    "label": "Conselho Federal de Biblioteconomia"
+  },
+  {
+    "value": "CFBIO",
+    "label": "Conselho Federal de Biologia"
+  },
+  {
+    "value": "CFBM",
+    "label": "Conselho Federal de Biomedicina"
+  },
+  {
+    "value": "CFC",
+    "label": "Conselho Federal de Contabilidade"
+  },
+  {
+    "value": "CFESS",
+    "label": "Conselho Federal de Serviço Social"
+  },
+  {
+    "value": "CFF",
+    "label": "Conselho Regional de Farmácia"
+  },
+  {
+    "value": "CFFA",
+    "label": "Conselho Federal de Fonoaudiologia"
+  },
+  {
+    "value": "CFM",
+    "label": "Conselho Federal de Medicina"
+  },
+  {
+    "value": "CFMV",
+    "label": "Conselho Federal de Medicina Veterinária"
+  },
+  {
+    "value": "CFN",
+    "label": "Conselho Federal de Nutrição"
+  },
+  {
+    "value": "CFO",
+    "label": "Conselho Federal de Odontologia"
+  },
+  {
+    "value": "CFP",
+    "label": "Conselho Federal de Psicologia"
+  },
+  {
+    "value": "CFQ",
+    "label": "Conselho Regional de Química"
+  },
+  {
+    "value": "CFT",
+    "label": "Conselho Federal dos Técnicos Industriais"
+  },
+  {
+    "value": "CFTA",
+    "label": "Conselho Federal dos Técnicos Agrícolas"
+  },
+  {
+    "value": "CGPI",
+    "label": "Coordenação Geral de Privilégios e Imunidades"
+  },
+  {
+    "value": "CGPMAF",
+    "label": "Coordenadoria Geral de Polícia Marítima, Aeronáutica e de Fronteiras"
+  },
+  {
+    "value": "CIPC",
+    "label": "Centro de Inteligência da Polícia Civil"
+  },
+  {
+    "value": "CNIG",
+    "label": "Conselho Nacional de Imigração"
+  },
+  {
+    "value": "CNT",
+    "label": "Confederação Nacional do Transporte"
+  },
+  {
+    "value": "CNTV",
+    "label": "Confederação Nacional de Vigilantes & Prestadores de Serviços"
+  },
+  {
+    "value": "COFECI",
+    "label": "Conselho Federal de Corretores de Imóveis"
+  },
+  {
+    "value": "COFECON",
+    "label": "Conselho Federal de Economia"
+  },
+  {
+    "value": "COFEM",
+    "label": "Conselho Federal de Museologia"
+  },
+  {
+    "value": "COFEN",
+    "label": "Conselho Federal de Enfermagem"
+  },
+  {
+    "value": "COFFITO",
+    "label": "Conselho Regional de Fisioterapia e Terapia Ocupacional"
+  },
+  {
+    "value": "COMAER",
+    "label": "Comando da Aeronáutica"
+  },
+  {
+    "value": "CONFE",
+    "label": "Conselho Federal de Estatística"
+  },
+  {
+    "value": "CONFEA",
+    "label": "Conselho Federal de Engenharia e Agronomia"
+  },
+  {
+    "value": "CONFEF",
+    "label": "Conselho Federal de Educação Física"
+  },
+  {
+    "value": "CONFERE",
+    "label": "Conselho Federal dos Representantes Comerciais"
+  },
+  {
+    "value": "CONRE",
+    "label": "Conselho Regional de Estatística"
+  },
+  {
+    "value": "CONRERP",
+    "label": "Conselho Federal de Profissionais de Relações Públicas"
+  },
+  {
+    "value": "CORE",
+    "label": "Conselho Regional dos Representantes Comerciais"
+  },
+  {
+    "value": "CORECON",
+    "label": "Conselho Regional de Economia"
+  },
+  {
+    "value": "COREM",
+    "label": "Conselho Regional de Museologia"
+  },
+  {
+    "value": "COREN",
+    "label": "Conselho Regional de Enfermagem"
+  },
+  {
+    "value": "CRA",
+    "label": "Conselho Regional de Administração"
+  },
+  {
+    "value": "CRAS",
+    "label": "Centro de Referência de Assistência Social"
+  },
+  {
+    "value": "CRB",
+    "label": "Conselho Regional de Biblioteconomia"
+  },
+  {
+    "value": "CRBIO",
+    "label": "Conselho Regional de Biologia"
+  },
+  {
+    "value": "CRBM",
+    "label": "Conselho Regional de Biomedicina"
+  },
+  {
+    "value": "CRC",
+    "label": "Conselho Regional de Contabilidade"
+  },
+  {
+    "value": "CREA",
+    "label": "Conselho Regional de Engenharia e Agronomia"
+  },
+  {
+    "value": "CRECI",
+    "label": "Conselho Regional de Corretores de Imóveis"
+  },
+  {
+    "value": "CREF",
+    "label": "Conselho Regional de Educação Física"
+  },
+  {
+    "value": "CREFITO",
+    "label": "Conselho Regional de Fisioterapia e Terapia Ocupacional"
+  },
+  {
+    "value": "CRESS",
+    "label": "Conselho Regional de Serviço Social"
+  },
+  {
+    "value": "CRF",
+    "label": "Conselho Regional de Farmácia"
+  },
+  {
+    "value": "CRFA",
+    "label": "Conselho Regional de Fonoaudiologia"
+  },
+  {
+    "value": "CRM",
+    "label": "Conselho Regional de Medicina"
+  },
+  {
+    "value": "CRMV",
+    "label": "Conselho Regional de Medicina Veterinária"
+  },
+  {
+    "value": "CRN",
+    "label": "Conselho Regional de Nutrição"
+  },
+  {
+    "value": "CRO",
+    "label": "Conselho Regional de Odontologia"
+  },
+  {
+    "value": "CRP",
+    "label": "Conselho Regional de Psicologia"
+  },
+  {
+    "value": "CRPRE",
+    "label": "Conselho Regional de Profissionais de Relações Públicas"
+  },
+  {
+    "value": "CRQ",
+    "label": "Conselho Regional de Química"
+  },
+  {
+    "value": "CRT",
+    "label": "Conselho Regional dos Técnicos Industriais"
+  },
+  {
+    "value": "CRTA",
+    "label": "Conselho Regional de Técnicos de Administração"
+  },
+  {
+    "value": "CTPS",
+    "label": "Carteira de Trabalho e Previdência Social"
+  },
+  {
+    "value": "CV",
+    "label": "Cartório Civil"
+  },
+  {
+    "value": "DELEMIG",
+    "label": "Delegacia de Polícia de Imigração"
+  },
+  {
+    "value": "DETRAN",
+    "label": "Departamento Estadual de Trânsito"
+  },
+  {
+    "value": "DGPC",
+    "label": "Diretoria Geral da Polícia Civil"
+  },
+  {
+    "value": "DIC",
+    "label": "Diretoria de Identificação Civil"
+  },
+  {
+    "value": "DICC",
+    "label": "Diretoria de Identificação Civil e Criminal"
+  },
+  {
+    "value": "DIREX",
+    "label": "Diretoria Executiva"
+  },
+  {
+    "value": "DPF",
+    "label": "Departamento de Polícia Federal"
+  },
+  {
+    "value": "DPMAF",
+    "label": "Divisão de Polícia Marítima, Aérea e de Fronteiras"
+  },
+  {
+    "value": "DPT",
+    "label": "Departamento de Polícia Técnica Geral"
+  },
+  {
+    "value": "DPTC",
+    "label": "Departamento de Polícia Técnico Científica"
+  },
+  {
+    "value": "DREX",
+    "label": "Delegacia Regional Executiva"
+  },
+  {
+    "value": "DRT",
+    "label": "Delegacia Regional do Trabalho"
+  },
+  {
+    "value": "EB",
+    "label": "Exército Brasileiro"
+  },
+  {
+    "value": "FAB",
+    "label": "Força Aérea Brasileira"
+  },
+  {
+    "value": "FENAJ",
+    "label": "Federação Nacional dos Jornalistas"
+  },
+  {
+    "value": "FGTS",
+    "label": "Fundo de Garantia do Tempo de Serviço"
+  },
+  {
+    "value": "FIPE",
+    "label": "Fundação Instituto de Pesquisas Econômicas"
+  },
+  {
+    "value": "FLS",
+    "label": "Fundação Lyndolpho Silva"
+  },
+  {
+    "value": "FUNAI",
+    "label": "Fundação Nacional do Índio"
+  },
+  {
+    "value": "GEJSP",
+    "label": "Gerência de Estado de Justiça, Segurança Pública e Cidadania"
+  },
+  {
+    "value": "GEJSPC",
+    "label": "Gerência de Estado de Justiça, Segurança Pública e Cidadania"
+  },
+  {
+    "value": "GEJUSPC",
+    "label": "Gerência de Estado de Justiça, Segurança Pública e Cidadania"
+  },
+  {
+    "value": "GESP",
+    "label": "Gerência de Estado de Segurança Pública"
+  },
+  {
+    "value": "GOVGO",
+    "label": "Governo do Estado de Goiás"
+  },
+  {
+    "value": "I CLA",
+    "label": "Carteira de Identidade Classista"
+  },
+  {
+    "value": "ICP",
+    "label": "Instituto de Polícia Científica"
+  },
+  {
+    "value": "IDAMP",
+    "label": "Instituto de Identificação Dr. Aroldo Mendes Paiva"
+  },
+  {
+    "value": "IFP",
+    "label": "Instituto Félix Pacheco"
+  },
+  {
+    "value": "IGP",
+    "label": "Instituto Geral de Perícias"
+  },
+  {
+    "value": "IIACM",
+    "label": "Instituto de Identificação Aderson Conceição de Melo"
+  },
+  {
+    "value": "IICC",
+    "label": "Instituto de Identificação Civil e Criminal"
+  },
+  {
+    "value": "IICCECF",
+    "label": "Instituto de Identificação Civil e Criminal Engrácia da Costa Francisco"
+  },
+  {
+    "value": "IICM",
+    "label": "Instituto de Identificação Carlos Menezes"
+  },
+  {
+    "value": "IIGP",
+    "label": "Instituto de Identificação Gonçalo Pereira"
+  },
+  {
+    "value": "IIJDM",
+    "label": "Instituto de Identificação João de Deus Martins"
+  },
+  {
+    "value": "IIPC",
+    "label": "Instituto de Identificação da Polícia Civil"
+  },
+  {
+    "value": "IIPC",
+    "label": "Instituto de Identificação Pedro Mello"
+  },
+  {
+    "value": "IIRGD",
+    "label": "Instituto de Identificação Ricardo Gumbleton Daunt"
+  },
+  {
+    "value": "IIRHM",
+    "label": "Instituto de Identificação Raimundo Hermínio de Melo"
+  },
+  {
+    "value": "IITB",
+    "label": "Instituto de Identificação Tavares Buril"
+  },
+  {
+    "value": "IML",
+    "label": "Instituto Médico-Legal"
+  },
+  {
+    "value": "INI",
+    "label": "Instituto Nacional de Identificação"
+  },
+  {
+    "value": "IPF",
+    "label": "Instituto Pereira Faustino"
+  },
+  {
+    "value": "ITCP",
+    "label": "Instituto Técnico-Científico de Perícia"
+  },
+  {
+    "value": "ITEP",
+    "label": "Instituto Técnico-Científico de Perícia"
+  },
+  {
+    "value": "MAER",
+    "label": "Ministério da Aeronáutica"
+  },
+  {
+    "value": "MB",
+    "label": "Marinha do Brasil"
+  },
+  {
+    "value": "MD",
+    "label": "Ministério da Defesa"
+  },
+  {
+    "value": "MDS",
+    "label": "Ministério da Cidadania"
+  },
+  {
+    "value": "MEC",
+    "label": "Ministério da Educação e Cultura"
+  },
+  {
+    "value": "MEX",
+    "label": "Ministério do Exército"
+  },
+  {
+    "value": "MINDEF",
+    "label": "Ministério da Defesa"
+  },
+  {
+    "value": "MJ",
+    "label": "Ministério da Justiça"
+  },
+  {
+    "value": "MM",
+    "label": "Ministério da Marinha"
+  },
+  {
+    "value": "MMA",
+    "label": "Ministério da Marinha"
+  },
+  {
+    "value": "MPAS",
+    "label": "Ministério da Previdência e Assistência Social"
+  },
+  {
+    "value": "MPE",
+    "label": "Ministério Público Estadual"
+  },
+  {
+    "value": "MPF",
+    "label": "Ministério Público Federal"
+  },
+  {
+    "value": "MPT",
+    "label": "Ministério Público do Trabalho"
+  },
+  {
+    "value": "MRE",
+    "label": "Ministério das Relações Exteriores"
+  },
+  {
+    "value": "MT",
+    "label": "Ministério do Trabalho"
+  },
+  {
+    "value": "MTE",
+    "label": "Ministério da Economia"
+  },
+  {
+    "value": "MTPS",
+    "label": "Ministério do Trabalho e Previdência Social"
+  },
+  {
+    "value": "NUMIG",
+    "label": "Núcleo de Polícia de Imigração"
+  },
+  {
+    "value": "OAB",
+    "label": "Ordem dos Advogados do Brasil"
+  },
+  {
+    "value": "OMB",
+    "label": "Ordens dos Músicos do Brasil"
+  },
+  {
+    "value": "PC",
+    "label": "Polícia Civil"
+  },
+  {
+    "value": "PF",
+    "label": "Polícia Federal"
+  },
+  {
+    "value": "PGFN",
+    "label": "Procuradoria Geral da Fazenda Nacional"
+  },
+  {
+    "value": "PM",
+    "label": "Polícia Militar"
+  },
+  {
+    "value": "POLITEC",
+    "label": "Perícia Oficial e Identificação Técnica"
+  },
+  {
+    "value": "PRF",
+    "label": "Polícia Rodoviária Federal"
+  },
+  {
+    "value": "PTC",
+    "label": "Polícia Tecnico-Científica"
+  },
+  {
+    "value": "SCC",
+    "label": "Secretaria de Estado da Casa Civil"
+  },
+  {
+    "value": "SCJDS",
+    "label": "Secretaria Coordenadora de Justiça e Defesa Social"
+  },
+  {
+    "value": "SDS",
+    "label": "Secretaria de Defesa Social"
+  },
+  {
+    "value": "SECC",
+    "label": "Secretaria de Estado da Casa Civil"
+  },
+  {
+    "value": "SECCDE",
+    "label": "Secretaria de Estado da Casa Civil e Desenvolvimento Econômico"
+  },
+  {
+    "value": "SEDS",
+    "label": "Secretaria de Estado da Defesa Social"
+  },
+  {
+    "value": "SEGUP",
+    "label": "Secretaria de Estado da Segurança Pública e da Defesa Social"
+  },
+  {
+    "value": "SEJSP",
+    "label": "Secretaria de Estado de Justiça e Segurança Pública"
+  },
+  {
+    "value": "SEJUC",
+    "label": "Secretaria de Estado da Justica"
+  },
+  {
+    "value": "SEJUSP",
+    "label": "Secretaria de Estado de Justiça e Segurança Pública"
+  },
+  {
+    "value": "SEPC",
+    "label": "Secretaria de Estado da Polícia Civil"
+  },
+  {
+    "value": "SES",
+    "label": "Secretaria de Estado da Segurança"
+  },
+  {
+    "value": "SESC",
+    "label": "Secretaria de Estado da Segurança e Cidadania"
+  },
+  {
+    "value": "SESDC",
+    "label": "Secretaria de Estado da Segurança, Defesa e Cidadania"
+  },
+  {
+    "value": "SESDEC",
+    "label": "Secretaria de Estado da Segurança, Defesa e Cidadania"
+  },
+  {
+    "value": "SESEG",
+    "label": "Secretaria Estadual de Segurança"
+  },
+  {
+    "value": "SESP",
+    "label": "Secretaria de Estado da Segurança Pública"
+  },
+  {
+    "value": "SESPAP",
+    "label": "Secretaria de Estado da Segurança Pública e Administração Penitenciária"
+  },
+  {
+    "value": "SESPDC",
+    "label": "Secretaria de Estado de Segurança Publica e Defesa do Cidadão"
+  },
+  {
+    "value": "SESPDS",
+    "label": "Secretaria de Estado de Segurança Pública e Defesa Social"
+  },
+  {
+    "value": "SGPC",
+    "label": "Superintendência Geral de Polícia Civil"
+  },
+  {
+    "value": "SGPJ",
+    "label": "Superintendência Geral de Polícia Judiciária"
+  },
+  {
+    "value": "SIM",
+    "label": "Serviço de Identificação da Marinha"
+  },
+  {
+    "value": "SJ",
+    "label": "Secretaria da Justiça"
+  },
+  {
+    "value": "SJCDH",
+    "label": "Secretaria da Justiça e dos Direitos Humanos"
+  },
+  {
+    "value": "SJDS",
+    "label": "Secretaria Coordenadora de Justiça e Defesa Social"
+  },
+  {
+    "value": "SJS",
+    "label": "Secretaria da Justiça e Segurança"
+  },
+  {
+    "value": "SJTC",
+    "label": "Secretaria da Justiça do Trabalho e Cidadania"
+  },
+  {
+    "value": "SJTS",
+    "label": "Secretaria da Justiça do Trabalho e Segurança"
+  },
+  {
+    "value": "SNJ",
+    "label": "Secretaria Nacional de Justiça / Departamento de Estrangeiros"
+  },
+  {
+    "value": "SPMAF",
+    "label": "Serviço de Polícia Marítima, Aérea e de Fronteiras"
+  },
+  {
+    "value": "SPTC",
+    "label": "Secretaria de Polícia Técnico-Científica"
+  },
+  {
+    "value": "SRDPF",
+    "label": "Superintendência Regional do Departamento de Polícia Federal"
+  },
+  {
+    "value": "SRF",
+    "label": "Receita Federal"
+  },
+  {
+    "value": "SRTE",
+    "label": "Superintendência Regional do Trabalho"
+  },
+  {
+    "value": "SSDC",
+    "label": "Secretaria da Segurança, Defesa e Cidadania"
+  },
+  {
+    "value": "SSDS",
+    "label": "Secretaria da Segurança e da Defesa Social"
+  },
+  {
+    "value": "SSI",
+    "label": "Secretaria de Segurança e Informações"
+  },
+  {
+    "value": "SSP",
+    "label": "Secretaria de Segurança Pública",
+    "selected": true
+  },
+  {
+    "value": "SSPCGP",
+    "label": "Secretaria de Segurança Pública e Coordenadoria Geral de Perícias"
+  },
+  {
+    "value": "SSPDC",
+    "label": "Secretaria de Segurança Pública e Defesa do Cidadão"
+  },
+  {
+    "value": "SSPDS",
+    "label": "Secretaria de Segurança Pública e Defesa Social"
+  },
+  {
+    "value": "SSPPC",
+    "label": "Secretaria de Segurança Pública Polícia Civil"
+  },
+  {
+    "value": "SUSEP",
+    "label": "Superintendência de Seguros Privados"
+  },
+  {
+    "value": "SUSEPE",
+    "label": "Superintendência dos Serviços Penitenciários"
+  },
+  {
+    "value": "TJ",
+    "label": "Tribunal de Justiça"
+  },
+  {
+    "value": "TJAEM",
+    "label": "Tribunal Arbitral e Mediação dos Estados Brasileiros"
+  },
+  {
+    "value": "TRE",
+    "label": "Tribunal Regional Eleitoral"
+  },
+  {
+    "value": "TRF",
+    "label": "Tribunal Regional Federal"
+  },
+  {
+    "value": "TSE",
+    "label": "Tribunal Superior Eleitoral"
+  }
+]
