@@ -1,0 +1,15 @@
+FROM node:current-alpine  AS BUILD
+
+WORKDIR /app
+
+COPY . .
+
+RUN npm i && npm run build
+
+FROM node:current-alpine
+
+COPY --from=BUILD /app/.output .
+
+EXPOSE 3000
+
+CMD "node" "./server/index.mjs"

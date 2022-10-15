@@ -1,7 +1,7 @@
 <template>
   <div class="AtomTextarea relative flex items-center">
     <textarea
-      v-mask="mask"
+      v-maska="mask"
       @input="
         $emit('update:modelValue', ($event.target as HTMLInputElement).value)
       "

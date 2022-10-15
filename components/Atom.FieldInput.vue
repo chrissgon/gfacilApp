@@ -1,7 +1,7 @@
 <template>
   <div class="AtomInput relative flex items-center">
     <input
-      v-mask="mask"
+      v-maska="mask"
       @input="
         $emit('update:modelValue', ($event.target as HTMLInputElement).value)
       "

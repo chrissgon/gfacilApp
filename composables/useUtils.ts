@@ -1,7 +1,7 @@
-import { MD5 } from "crypto-js";
+import crypto from "crypto-js";
 
 function StrToMD5(val: string): string {
-  return MD5(val).toString();
+  return crypto.MD5(val).toString();
 }
 function DateToUTC(val: string): string {
   return `${val} 00:00:00`;
