@@ -3,7 +3,9 @@ import { defineNuxtConfig } from "nuxt";
 export default defineNuxtConfig({
   runtimeConfig: {
     public: {
-      baseURL: "http://localhost:3333",
+      devEnv: true,
+      devBaseURL: "http://localhost:3333",
+      prodBaseURL: "http://ec2-3-87-208-137.compute-1.amazonaws.com:3333",
       page: "1",
       perPage: "50",
     },

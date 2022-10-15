@@ -13,8 +13,11 @@ interface RequestMethods {
 }
 
 class Request implements RequestMethods {
+  private _config = useRuntimeConfig().public;
   private _options = {
-    baseURL: useRuntimeConfig().public.baseURL,
+    baseURL: this._config.devEnv
+      ? useRuntimeConfig().public.devBaseURL
+      : useRuntimeConfig().public.prodBaseURL,
   };
 
   async get(url: string, params = {}): Promise<Response> {
@@ -96,9 +99,9 @@ export default function () {
       getAll(params: object): Promise<Response> {
         return r.get(`/collaborators`, params);
       },
-      update(ID:string, body: object):Promise<Response>{
-        return r.put(`/collaborators/${ID}`, body)
-      }
+      update(ID: string, body: object): Promise<Response> {
+        return r.put(`/collaborators/${ID}`, body);
+      },
     },
   };
 }
